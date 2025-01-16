@@ -1,1 +1,2 @@
-# PythonEssentials1
+# Python Essentials 1
+## Senai Hermenegildo Campos de Almeida
